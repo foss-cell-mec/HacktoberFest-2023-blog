@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `FOSSMEC Hacktoberfest 2023`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `FOSSMEC`,
+      summary: `The free and open source cell of MEC.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `First Open Source Contribution for Many.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `FOSSMEC`,
     },
   },
   plugins: [
